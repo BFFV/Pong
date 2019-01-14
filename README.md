@@ -1,2 +1,2 @@
 # Pong
-Pong recreation in Unity
+Pong recreation in Unity.
